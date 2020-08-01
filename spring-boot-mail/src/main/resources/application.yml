@@ -1,0 +1,11 @@
+spring:
+  mail:
+    host: smtp.qq.com
+    port: 587
+    username: 358004620
+    password: password
+    protocol: smtp
+    properties:
+      mail.smtp.connectiontimeout: 5000
+      mail.smtp.timeout: 3000
+      mail.smtp.writetimeout: 5000
